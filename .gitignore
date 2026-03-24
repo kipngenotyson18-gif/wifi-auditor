@@ -1,0 +1,6 @@
+captures/*
+logs/*
+__pycache__/
+*.cap
+*.csv
+*.netxml
